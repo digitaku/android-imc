@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Calcular IMC</string>
+    <string name="peso_value">Digite seu peso(KG)</string>
+    <string name="altura_value">Digite sua Altura(Metros)</string>
+    <string name="calcular">Calcular</string>
+    <string name="logo_imc">Logo Imc</string>
+</resources>
